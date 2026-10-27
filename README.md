@@ -1,19 +1,21 @@
 # Vider Pobieracz
 
-Prosta aplikacja Windows do pobierania materiałów wideo z Videra.
+Darmowe pobieranie materiałów wideo z Videra — bezpłatna aplikacja dla Windows.
 Polski interfejs, kolejka w osobnej zakładce, równoległe pobieranie
 i ręczne wpisywanie CAPTCHA.
+
+**Program jest całkowicie darmowy i udostępniony na licencji MIT.**
 
 ![Vider Pobieracz — widok aplikacji z przykładowymi danymi](docs/interfejs.png)
 
 ## Pobierz gotowy program
 
-**[Pobierz gotowy program dla Windows x64](https://github.com/TLLogika/vider-pobieracz/releases/latest/download/Vider-Pobieracz-Windows-x64.zip)**
+**[Pobierz gotowy program dla Windows x64](https://github.com/TLLogika/vider-pobieranei/releases/latest/download/Vider-Pobieracz-Windows-x64.zip)**
 
 Rozpakuj ZIP i uruchom `ViderDownloader.exe`. Pozostaw dołączone biblioteki obok EXE.
 Nie trzeba kompilować kodu ani instalować Visual Studio.
 Program jest przenośny. Wymaga .NET Framework 4.8 i Edge WebView2 Runtime.
-[Wszystkie wydania i informacje o zmianach](https://github.com/TLLogika/vider-pobieracz/releases).
+[Wszystkie wydania i informacje o zmianach](https://github.com/TLLogika/vider-pobieranei/releases).
 
 ## Co potrafi
 

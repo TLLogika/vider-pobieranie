@@ -10,12 +10,12 @@ i ręczne wpisywanie CAPTCHA.
 
 ## Pobierz gotowy program
 
-**[Pobierz gotowy program dla Windows x64](https://github.com/TLLogika/vider-pobieranei/releases/latest/download/Vider-Pobieracz-Windows-x64.zip)**
+**[Pobierz gotowy program dla Windows x64](https://github.com/TLLogika/vider-pobieranie/releases/latest/download/Vider-Pobieracz-Windows-x64.zip)**
 
 Rozpakuj ZIP i uruchom `ViderDownloader.exe`. Pozostaw dołączone biblioteki obok EXE.
 Nie trzeba kompilować kodu ani instalować Visual Studio.
 Program jest przenośny. Wymaga .NET Framework 4.8 i Edge WebView2 Runtime.
-[Wszystkie wydania i informacje o zmianach](https://github.com/TLLogika/vider-pobieranei/releases).
+[Wszystkie wydania i informacje o zmianach](https://github.com/TLLogika/vider-pobieranie/releases).
 
 ## Co potrafi
 

@@ -1,0 +1,30 @@
+# Wyniki budowania i biblioteki odtwarzane z oficjalnego pakietu NuGet
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.nupkg
+WebView2-LICENSE.txt
+WebView2-NOTICE.txt
+
+# Dane lokalne i sesje
+ustawienia.xml
+ustawienia.xml.tmp
+diagnostyka.txt
+*.log
+BrowserProfile/
+*.mp4
+*.mkv
+*.part
+*.vider.xml
+*.user
+*.suo
+.env
+.env.*
+
+# Lokalne notatki, nieprzeznaczone do publikacji
+KONTEKST_DLA_CODEXA.md
+Instrukcja.txt
+work/

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppSettings>
+  <Destination>C:\Filmy</Destination>
+  <Source></Source>
+  <ConcurrentDownloads>2</ConcurrentDownloads>
+  <AllDownloads>false</AllDownloads>
+  <Automatic>true</Automatic>
+</AppSettings>

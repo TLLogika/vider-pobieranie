@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Zbuduj Vider",
+      "type": "process",
+      "command": "${env:WINDIR}\\System32\\cmd.exe",
+      "args": ["/d", "/c", "build.cmd"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": "$msCompile"
+    },
+    {
+      "label": "Uruchom Vider",
+      "type": "process",
+      "command": "${workspaceFolder}\\ViderDownloader.exe",
+      "options": { "cwd": "${workspaceFolder}" },
+      "dependsOn": "Zbuduj Vider",
+      "problemMatcher": []
+    }
+  ]
+}
